@@ -1,0 +1,5 @@
+[ubuntu_controller_node]
+192.168.56.107
+
+[remote_server]
+192.168.56.107
